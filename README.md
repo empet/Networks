@@ -1,4 +1,4 @@
 # Networks
-In this repo we post Jupyter notebooks that define graphs with different layouts, provided by various Python pkgs
 
-1. [Kamada-Kawai layout in igraph, graphviz and networkx](http://nbviewer.jupyter.org/github/empet/Networks/blob/master/kk-layout-in-3-packages-netsci.ipynb)
+1. [Kamada-Kawai layout of a disconnected graph in igraph, graphviz and networkx](http://nbviewer.jupyter.org/github/empet/Networks/blob/master/kk-layout-in-3-packages-netsci.ipynb)
+2. [Kamada-Kawai layout of a connected graph in igraph, graphviz and networkx](http://nbviewer.jupyter.org/github/empet/Networks/blob/master/kk-layout-in-3-packages-zika.ipynb)
